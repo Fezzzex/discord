@@ -1,0 +1,11 @@
+{
+  "id": "yabdp4nitro-stream-bypass-unbound",
+  "name": "YABDP4Nitro Stream Bypass",
+  "description": "Experimental Unbound port of YABDP4Nitro's streamBypass. Custom stream bitrate, FPS/resolution hints, and screen-share permission hooks.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "authors": [
+    "Riolubruh / YABDP4Nitro contributors",
+    "Unbound port: Sergey"
+  ]
+}
